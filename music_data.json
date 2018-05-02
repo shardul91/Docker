@@ -1,0 +1,64 @@
+{
+    "music":[
+    {
+        "id" : "1",
+        "Artist" : "ACDC",
+        "Song" : "Thunderstruck"
+    },
+
+    {
+        "id" : "2",
+        "Artist" : "Breaking Benjamin",
+        "Song" : "Breath"
+    },
+
+    {
+        "id" : "3",
+        "Artist" : "Coldplay",
+        "Song" : "Yellow"
+    },
+
+    {
+        "id" : "4",
+        "Artist" : "Drake",
+        "Song" : "Hotline Bling"
+    },
+
+    {
+        "id" : "5",
+        "Artist" : "Eminem",
+        "Song" : "Stan"
+    },
+
+    {
+        "id" : "6",
+        "Artist" : "Foo fighters",
+        "Song" : "Everlong"
+    },
+
+    {
+        "id" : "7",
+        "Artist" : "Guns N Roses",
+        "Song" : "Paradise City"
+    },
+
+    {
+        "id" : "8",
+        "Artist" : "Hoobastank",
+        "Song" : "The Reason"
+    },
+
+    {
+        "id" : "9",
+        "Artist" : "Incubus",
+        "Song" : "Drive"
+    },
+
+    {
+        "id" : "10",
+        "Artist" : "Jason Derulo",
+        "Song" : "Ridin Solo"
+    }
+    
+    ]
+ }
